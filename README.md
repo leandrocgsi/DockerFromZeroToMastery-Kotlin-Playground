@@ -1,10 +1,10 @@
 # [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 ### [Domine containeres! Aprenda Docker do 0 absoluto na teoria e na prática! Integre o Docker à apps Java, .NET, Node JS e +](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml)
-![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
-![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
-![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
+[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerFromZeroToMastery-Kotlin-Playground/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-Kotlin-Playground/actions/workflows/continuous-integration.yml)
+![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-Kotlin-Playground)
+![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-Kotlin-Playground)
+![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-Kotlin-Playground)
 [![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-java.svg)](https://hub.docker.com/repository/docker/leandrocgsi/docker-from-zero-to-mastery-java)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
