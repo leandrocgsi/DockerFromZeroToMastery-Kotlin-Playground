@@ -3,7 +3,8 @@ server:
 cors:
   originPatterns: http://localhost:3000,http://localhost:8080,https://erudio.com.br
 file:
-  upload-dir: /github/workspace/UploadDir
+  upload-dir: /home/runner/work/DockerFromZeroToMastery-Kotlin-Playground/DockerFromZeroToMastery-Kotlin-Playground/UploadDir
+  # upload-dir: /github/workspace/UploadDir
 security:
   jwt:
     token:
