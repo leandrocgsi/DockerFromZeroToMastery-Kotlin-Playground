@@ -18,19 +18,16 @@ import java.util.logging.Logger
 @Service
 class FileStorageService @Autowired constructor(fileStorageConfig: FileStorageConfig) {
 
-    private final var fileStorageLocation: Path
-    val currentDir = System.getProperty("user.dir")
+    private val fileStorageLocation: Path
 
     private val logger = Logger.getLogger(FileStorageService::class.java.name)
 
     init {
-
-        logger.info("currentDir is ######### ${currentDir}/UploadDir!")
-        // fileStorageLocation = Paths.get(fileStorageConfig.uploadDir).toAbsolutePath().normalize()
-        fileStorageLocation = Paths.get("${currentDir}/UploadDir").toAbsolutePath().normalize()
+        fileStorageLocation = Paths.get(fileStorageConfig.uploadDir).toAbsolutePath().normalize()
         try {
             Files.createDirectories(fileStorageLocation)
         } catch (e: Exception) {
+            logger.info("Upload DIR is ${fileStorageConfig.uploadDir}")
             throw FileStorageException("Could not create the directory where the uploaded files will be stored", e)
         }
     }
