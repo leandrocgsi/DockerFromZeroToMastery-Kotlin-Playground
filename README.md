@@ -69,4 +69,4 @@
 
 Este é um dos repositórios dos codigos fonte desenvolvidos no curso [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
-[<img src="https://github.com/leandrocgsi/DockerToAWSWithDotNet/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+[<img src="https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
