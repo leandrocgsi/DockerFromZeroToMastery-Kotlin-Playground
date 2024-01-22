@@ -27,7 +27,7 @@ jobs:
 
      - name: Build Application Jar
        working-directory: ./02-AfterDockerization/app
-       run: mvn clean package -DskipTests
+       run: mvn clean package
        
      - name: Docker Compose Build
        working-directory: ./02-AfterDockerization
